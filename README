@@ -1,0 +1,19 @@
+There is the "map" of the repository of smurf
+
+which contains:
+- Dwarf-O (format + loader)
+  - .ob
+  - .dlb
+
+- Elf-WM
+  - Aqua-DE (and something that recognizes the extension)
+    - Compass
+    - Mozilla Firefox
+    - APM
+        - .opkg
+  
+- Gnome-Security
+  - Asks the password of the administrator if a elevation is needed
+  - Blocks an application if it look weird
+  
+  
